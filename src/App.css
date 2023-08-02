@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.white{
+
+  background-color: rgb(255, 255, 255);
+  height:100vh ;
+
+
+}
+.dark{
+
+    background-color: black;
+    height:100vh ;
+
+}
